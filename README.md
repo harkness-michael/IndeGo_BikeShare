@@ -41,8 +41,8 @@ You can view the dashboard on [Tableau Public](https://public.tableau.com/app/pr
 
 ## Project Structure
 
-- **notebooks/**: Jupyter notebooks used for data processing, exploration, and analysis.
-- **scripts/**: Python scripts for data cleaning, transformation, and visualization.
-- **dashboard/**: Tableau workbook files for creating the visualizations in the dashboard.
+- **notebooks**: Jupyter notebooks used for data processing, exploration, and analysis.
+- **scripts**: Python scripts for data cleaning, transformation, and visualization.
+- **dashboard**: Tableau workbook files for creating the visualizations in the dashboard.
 - **README.md**: This file, providing an overview of the project.
-- **data/**: Data files available upon request, as they exceed GitHub's 100MB file limit.
+- **data**: Data files available upon request, as they exceed GitHub's 100MB file limit.
